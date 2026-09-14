@@ -544,11 +544,7 @@
         { "name_ar": "جليسرين (لحماية الجلد)", "trade_name": "Glycerin", "percentage": 3.0 },
         { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 22.0 }
       ]
-    }
-  ]
-}
-{
-  "formulas": [
+    },
     {
       "id": 101,
       "name_ar": "شامبو السيارات (Car Shampoo)",
