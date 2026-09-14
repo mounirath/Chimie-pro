@@ -547,3 +547,174 @@
     }
   ]
 }
+{
+  "formulas": [
+    {
+      "id": 101,
+      "name_ar": "شامبو السيارات (Car Shampoo)",
+      "name_fr": "Shampooing pour voiture",
+      "category": "العناية بالسيارات",
+      "description": "شامبو عالي الجودة لإزالة الأوساخ والدهون مع الحفاظ على طلاء السيارة ومنحه لمعاناً ممتازاً.",
+      "preparation_steps": "1. قم بإذابة Texapon N70 في الماء المقطر تدريجياً مع التحريك المعتدل حتى الذوبان الكامل.\n2. أضف CDE تدريجياً لزيادة القوام والرغوة.\n3. أذب حمض الستريك في قليل من الماء وأضفه للخليط واضبط الـ pH بين 6.5 و 7.0.\n4. أضف البروبيلين جليكول، المادة الحافظة، والعطر واللون مع الخلط الجيد.\n* ملاحظة للتركيبة الاقتصادية: استخدم (Texapon 6%, CDE 1.5%, PG 1%, Citric Acid 0.3%, Sorbate 0.1%, Eau 91.1%).",
+      "safety_warnings": "تجنب ملامسة المكونات المركزة للعينين. تجنب الرش المباشر على الأسطح الساخنة.",
+      "ingredients": [
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 8.0 },
+        { "name_ar": "كمبرلان CDE", "trade_name": "Coco Diethanolamide", "percentage": 2.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 2.0 },
+        { "name_ar": "حمض الستريك", "trade_name": "Acide Citrique", "percentage": 0.5 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "عطر سيارات + ملون", "trade_name": "Parfum & Colorant", "percentage": 0.5 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 86.8 }
+      ]
+    },
+    {
+      "id": 102,
+      "name_ar": "منظف زجاج السيارات (Glass Cleaner)",
+      "name_fr": "Nettoyant vitres voiture",
+      "category": "العناية بالسيارات",
+      "description": "منظف زجاج يزيل الزيوت والأبخرة بسرعة وبدون إبقاء أي آثار أو خطوط، مع لمعان فائق.",
+      "preparation_steps": "1. اخلط كحول الإيزوبروبانول Isopropanol مع الماء المقطر.\n2. أضف Texapon N70 ببطء وحرك حتى تمام الذوبان.\n3. أذّب حمض الستريك بماء وأضفه لضبط pH بين 6.5 و 7.0.\n4. أضف Propylene Glycol والمادة الحافظة والصبغة الزرقاء ثم عبّئ في بخاخات.\n* ملاحظة للتركيبة الاقتصادية: استخدم (IPA 5%, PG 3%, Texapon 1%, Citric 0.2%, Sorbate 0.1%, Eau 90.7%).",
+      "safety_warnings": "يحوي كحول Isopropanol؛ يمنع استخدامه قرب مصادر النار أو السجائر.",
+      "ingredients": [
+        { "name_ar": "كحول إيزوبروبانول", "trade_name": "Isopropanol (IPA)", "percentage": 10.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 2.0 },
+        { "name_ar": "حمض الستريك", "trade_name": "Acide Citrique", "percentage": 0.3 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "ماء مقطر + صبغة زرقاء", "trade_name": "Eau Distillée", "percentage": 82.5 }
+      ]
+    },
+    {
+      "id": 103,
+      "name_ar": "ملمع لوحة القيادة (Dashboard Polish)",
+      "name_fr": "Rénovateur Tableau de Bord",
+      "category": "العناية بالسيارات",
+      "description": "ملمع ومجدد لأسطح التابلوه والبلاستيك يحمي من الجفاف والتشقق ويعطي مظهراً حريرياً.",
+      "preparation_steps": "1. امزج Propylene Glycol مع Cetiol C5 حتى التجانس.\n2. أضف Isopropanol تدريجياً مع التقليب.\n3. أضف الجلسرين واخلطه جيداً.\n4. أذب سوربات البوتاسيوم بالماء المقطر ثم أضفه للخليط واتركه يرتاح 24 ساعة قبل التعبئة.\n* خيار اقتصادي/مطور: يمكن تقليل Cetiol C5 إلى 3% وإضافة 3% - 5% زيت سيليكون (Huile de Silicone) لزيادة اللمعان.",
+      "safety_warnings": "احفظ المنتج بعيداً عن أسطح المقود ودواسات الفرامل تجنباً للانزلاق.",
+      "ingredients": [
+        { "name_ar": "سيتيل C5", "trade_name": "Cetiol C5", "percentage": 10.0 },
+        { "name_ar": "كحول إيزوبروبانول", "trade_name": "Isopropanol", "percentage": 7.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "جلسرين نباتي", "trade_name": "Glycérine", "percentage": 3.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.5 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 74.5 }
+      ]
+    },
+    {
+      "id": 104,
+      "name_ar": "مزيل زيوت وشحوم المحرك (Engine Degreaser)",
+      "name_fr": "Dégraissant Moteur",
+      "category": "العناية بالسيارات",
+      "description": "منظف قوي ومزيل للشحوم المستعصية والزيوت المتراكمة على المحركات والأجزاء الميكانيكية.",
+      "preparation_steps": "1. أذب Texapon N70 في الماء المقطر تماماً.\n2. أضف Butyl Glycol المزيل للشحوم ببطء مع التحريك مستمر.\n3. أضف Cetiol C5 و Propylene Glycol واخلط للحصول على مزيج متجانس.\n4. أضف المادة الحافظة وعيّئ في عبوات رش محكمة متوافقة مع المواد الكيميائية.\n* خيار اقتصادي: قلل Cetiol C5 إلى 1% واستبدل الفارق بزيادة طفيفة في Texapon أو Propylene Glycol.",
+      "safety_warnings": "استخدم قفازات ونظارات واقية أثناء التحضير والاستخدام. تجنب رش الأجزاء الكهربائية الحساسة.",
+      "ingredients": [
+        { "name_ar": "بوتيل جليكول", "trade_name": "Butyl Glycol", "percentage": 10.0 },
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 8.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "سيتيل C5", "trade_name": "Cetiol C5", "percentage": 3.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 73.8 }
+      ]
+    },
+    {
+      "id": 105,
+      "name_ar": "رغوة تنظيف السيارات (La Mousse Snow Foam)",
+      "name_fr": "Mousse Nettoyante (Snow Foam)",
+      "category": "العناية بالسيارات",
+      "description": "منظف الرغوة الثلجية الكثيفة (Snow Foam) المخصص لمسدسات الرغوة والمغاسل الأوتوماتيكية.",
+      "preparation_steps": "1. أذّب Texapon N70 في كمية من الماء المقطر.\n2. أضف CDE بالتدريج للحصول على قوام سميك ورغوة ثقيلة.\n3. أضف البروبيلين جليكول وحمض الستريك لمعادلة pH.\n4. أضف العطر والملون والمادة الحافظة، ثم خفف بباقي كمية الماء المقطر.",
+      "safety_warnings": "يحفظ بعيداً عن متناول الأطفال. يراعى غسل السيارة بالماء جيدا بعد الرش.",
+      "ingredients": [
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 10.0 },
+        { "name_ar": "كمبرلان CDE", "trade_name": "Coco Diethanolamide", "percentage": 3.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 2.0 },
+        { "name_ar": "حمض الستريك", "trade_name": "Acide Citrique", "percentage": 0.5 },
+        { "name_ar": "عطر وملون", "trade_name": "Parfum & Colorant", "percentage": 0.4 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 83.9 }
+      ]
+    },
+    {
+      "id": 106,
+      "name_ar": "سائل مبرد وحماية المحرك (Coolant / Antifreeze)",
+      "name_fr": "Liquide de Refroidissement",
+      "category": "العناية بالسيارات",
+      "description": "سائل تبريد المحرك المضاد للتجمد والغليان والمزود بمانع تآكل الصدأ للرادياتير.",
+      "preparation_steps": "1. اخلط Mono Ethylene Glycol (MEG) مع الماء المقطر في وعاء نظيف جداً.\n2. أضف مانع التآكل (Inhibiteur de Corrosion) مع التقليب حتى الذوبان.\n3. أضف مانع الرغوة (Anti-Foaming Agent) والصبغة الملونة الخاصة (أخضر/وردي).\n4. عبّئ في عبوات بلاستيكية مقاومة للمواد الكيميائية.",
+      "safety_warnings": "مادة Mono Ethylene Glycol سامة جداً عند الإبتلاع! احفظها بعيداً عن الأطفال والحيوانات.",
+      "ingredients": [
+        { "name_ar": "مونو إيثيلين جليكول", "trade_name": "Mono Ethylene Glycol (MEG)", "percentage": 50.0 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 48.0 },
+        { "name_ar": "مانع التآكل والصدأ", "trade_name": "Inhibiteur de Corrosion", "percentage": 1.5 },
+        { "name_ar": "مضاد الرغوة", "trade_name": "Anti-Foaming Agent", "percentage": 0.3 },
+        { "name_ar": "صبغة ملونة", "trade_name": "Colorant", "percentage": 0.2 }
+      ]
+    },
+    {
+      "id": 107,
+      "name_ar": "مزيل الضباب عن الزجاج الداخلي (Anti-Fog Glass)",
+      "name_fr": "Anti-Buée Vitres Intérieures",
+      "category": "العناية بالسيارات",
+      "description": "سائل يمنع تشكل الرطوبة والضباب على الزجاج الداخلي للسيارات أثناء الشتاء.",
+      "preparation_steps": "1. اخلط كحول الإيزوبروبانول Isopropanol مع الماء المقطر.\n2. أضف البروبيلين جليكول Propylene Glycol بالتدريج للحد من تكثف بخار الماء.\n3. أضف سوربات البوتاسيوم والصبغة مع التقليب الجيد ثم عبّئ بالبخاخ.",
+      "safety_warnings": "استخدمه في مكان جيد التهوية. قابل للاشتعال لاحتوائه على الكحول.",
+      "ingredients": [
+        { "name_ar": "كحول إيزوبروبانول", "trade_name": "Isopropanol (IPA)", "percentage": 20.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.5 },
+        { "name_ar": "ماء مقطر + ملون", "trade_name": "Eau Distillée", "percentage": 74.5 }
+      ]
+    },
+    {
+      "id": 108,
+      "name_ar": "معطر السيارات السائل (Car Air Freshener)",
+      "name_fr": "Parfum & Déodorant Voiture",
+      "category": "العناية بالسيارات",
+      "description": "بخاخ معطر للجو والأنسجة داخل السيارة يثبت الرائحة لفترة طويلة.",
+      "preparation_steps": "1. امزج Propylene Glycol مع الزيت العطري المركز جيداً حتى الذوبان الكلي.\n2. أضف الماء المقطر بالتدريج مع التقليب الميكانيكي المستمر.\n3. أضف المادة الحافظة سوربات البوتاسيوم ثم عبّئ المنتج في بخاخات صغيرة.",
+      "safety_warnings": "تجنب الرش المباشر على شاشات الملاحة والأسطح البلاستيكية المطبوعة.",
+      "ingredients": [
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 10.0 },
+        { "name_ar": "زيت عطري مركز", "trade_name": "Huile Parfumée", "percentage": 5.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.5 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 84.5 }
+      ]
+    },
+    {
+      "id": 109,
+      "name_ar": "سائل مساحات الزجاج (Windshield Washer)",
+      "name_fr": "Lave-Glace Auto",
+      "category": "العناية بالسيارات",
+      "description": "سائل لخزان مساحات السيارات يزيل الحشرات والرواسب ويمنع انسداد الرشاشات.",
+      "preparation_steps": "1. اخلط الماء المقطر مع كحول Isopropanol ببطء.\n2. أضف Texapon N70 وحرك ببطء لمنع تكون الرغوة الزائدة.\n3. أضف Propylene Glycol والمادة الحافظة العطر واللون المفضل.",
+      "safety_warnings": "احرص على استخدام ماء مقطر حتماً لمنع انسداد أنابيب الرش بالترسبات الكلسية.",
+      "ingredients": [
+        { "name_ar": "كحول إيزوبروبانول", "trade_name": "Isopropanol", "percentage": 20.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 1.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "عطر وملون", "trade_name": "Parfum & Colorant", "percentage": 0.3 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 73.5 }
+      ]
+    },
+    {
+      "id": 110,
+      "name_ar": "منظف ومجدد عجلات السيارات (Wheel & Tire Cleaner)",
+      "name_fr": "Nettoyant Jantes et Pneus",
+      "category": "العناية بالسيارات",
+      "description": "مستحضر لتنظيف جنوط وعجلات السيارات من غبار الفرامل والسخام وإعادة اللون الأسود للإطارات.",
+      "preparation_steps": "1. أذب Texapon N70 في 20% من كمية الماء المقطر.\n2. أضف Propylene Glycol و CDE بالتدريج وحرك حتى الحصول على مزيج خالي من التكتلات.\n3. أذب حمض الستريك في ماء وأضفه للخليط.\n4. أضف سوربات البوتاسيوم وباقي كمية الماء وحرك المزيج جيداً.",
+      "safety_warnings": "ينصح بارتداء قفازات أثناء الاستخدام لتجنب جفاف الجلد.",
+      "ingredients": [
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 7.0 },
+        { "name_ar": "كمبرلان CDE", "trade_name": "Coco Diethanolamide", "percentage": 5.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 3.0 },
+        { "name_ar": "حمض الستريك", "trade_name": "Acide Citrique", "percentage": 1.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.3 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 83.7 }
+      ]
+    }
+  ]
+}
